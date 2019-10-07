@@ -47,7 +47,7 @@ class Search extends Component {
               <ol className="books-grid">
       			{searchedBooks.length > 0 && query.length > 0 &&
                  	searchedBooks.map(book => {
-                 		// Check if searchedBook is in Books in Main page. If it exists change the shelf.
+                 		// Check if searchedBook is in Books in Main page. If it exists change the shelf
                  		book.shelf = books.filter(f => f.id === book.id).length > 0 ?
 							books.filter(f => f.id === book.id)[0].shelf : 'none';
 
