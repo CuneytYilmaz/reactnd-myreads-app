@@ -56,6 +56,10 @@ class Search extends Component {
                  		)
                 	})
                 }
+				{
+                  searchedBooks.error === 'empty query' &&
+                  	<p>No Results</p>
+                }
       		  </ol>
             </div>
           </div>
