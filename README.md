@@ -34,7 +34,7 @@ Of course, you have to be online to work as the API is not hosted locally.
 2. **Search Page** : You can search the books in library thanks to api calls. Also you can select and add book to your shelfs, change the current shelf of book which already in your shelf.
 
 <p align="center">
-<img src="https://github.com/CuneytYilmaz/reactnd-myreads-app/blob/99709f977e15c4ed12b8bccdeb9a0f71a4f75630/SearchPage.png" height="450"/>
+<img src="https://github.com/CuneytYilmaz/reactnd-myreads-app/blob/master/Search.png" height="450"/>
 </p>
 
  # License
