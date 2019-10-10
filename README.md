@@ -28,13 +28,13 @@ Of course, you have to be online to work as the API is not hosted locally.
 1. **Home Page** : In this pages, you can see your categorized books in 3 shelfs. These shelfs are; Currently Reading, Want To Read and Read. You can change the book's shelfs. It allows you to manage your library.
 
 <p align="center">
-<img src="https://github.com/CuneytYilmaz/reactnd-myreads-app/blob/99709f977e15c4ed12b8bccdeb9a0f71a4f75630/HomePage.png" height="250"/>
+<img src="https://github.com/CuneytYilmaz/reactnd-myreads-app/blob/99709f977e15c4ed12b8bccdeb9a0f71a4f75630/HomePage.png" height="450"/>
 </p>
 
 2. **Search Page** : You can search the books in library thanks to api calls. Also you can select and add book to your shelfs, change the current shelf of book which already in your shelf.
 
 <p align="center">
-<img src="https://github.com/CuneytYilmaz/reactnd-myreads-app/blob/99709f977e15c4ed12b8bccdeb9a0f71a4f75630/SearchPage.png" height="250"/>
+<img src="https://github.com/CuneytYilmaz/reactnd-myreads-app/blob/99709f977e15c4ed12b8bccdeb9a0f71a4f75630/SearchPage.png" height="450"/>
 </p>
 
  # License
